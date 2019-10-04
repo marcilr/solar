@@ -1,0 +1,6 @@
+solar.txt
+Created Fri Oct  4 13:37:38 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Solar
