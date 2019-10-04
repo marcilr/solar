@@ -4,3 +4,26 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Solar related links
+
+
+Links
+=====
+Greenrocks's battery technology
+Scalable batteries from 5kWh
+o 5 kWH - 30 kWh
+o 24V and 48V
+o Single-phase or three-phase
+o AC or DB cooupling possible
+o C-Rate: 0.2
+o Round-Trip Efficiency: 90%   <=== awesome
+o Depth of Dischage DOD: 100%
+o Lifespan: 15 years (@70% usable capacity)
+o 100% Dod > 3.000 cycles
+o  80% Dod > 5.000 cycles
+o Temperature range: -5V yo 50C
+o Weight per kWh:
+  60kg + 1x junction box 30kg
+o Guarantee: 10 years
+Safe - Saltwater battery surviving 30 minutes in fire hell
+Reads awesome, price?
+bluesky-energy.eu
